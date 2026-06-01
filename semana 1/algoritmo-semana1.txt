@@ -1,0 +1,11 @@
+Actividad práctica de algoritmia
+Escribe un algoritmo de mínimo 6 pasos para explicar
+
+1. Buscar la información sobre el tema que se quiere compartir.
+2. Revisar si la fuente es confiable y reconocida.
+3. Confirmar la noticia o información en otras páginas o medios serios.
+4. Leer el contenido completo y no solo el título o la imagen.
+5. Verificar la fecha de publicación para asegurarse de que sea actual.
+6. Analizar si la información es clara, verdadera y útil para otras personas.
+7. Pensar en las consecuencias de compartir esa información.
+8. Compartirla de manera responsable en internet.
