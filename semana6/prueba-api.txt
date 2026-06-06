@@ -1,0 +1,20 @@
+Para probar la ruta /registro se envió una petición POST a la dirección http://localhost:3000/registro.
+
+El cuerpo de la petición se envió en formato JSON con los datos de nombre y mensaje.
+
+El JSON enviado fue:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor recibió los datos usando req.body y devolvió una respuesta confirmando que la información fue recibida correctamente.
+
+La respuesta obtenida fue:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

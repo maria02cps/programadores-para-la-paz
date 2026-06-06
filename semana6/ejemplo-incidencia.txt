@@ -1,0 +1,8 @@
+Ejemplo de JSON que puede enviar un ciudadano para reportar una incidencia:
+
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+Este ejemplo permite registrar una situación comunitaria de forma organizada, indicando el tipo de problema y una descripción clara del caso.

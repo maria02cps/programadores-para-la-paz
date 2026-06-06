@@ -1,0 +1,9 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes ciudadanos de forma estructurada porque así la información se organiza mejor.
+Cuando los datos llegan en formato JSON, el sistema puede identificar campos como nombre, tipo de reporte o descripción.
+Esto facilita que las instituciones o comunidades puedan revisar los casos con mayor claridad.
+También ayuda a evitar información incompleta o desordenada.
+
+Una plataforma que recibe datos correctamente puede dar respuestas más rápidas.
+Además, permite guardar registros para hacer seguimiento a los problemas reportados.
+En el caso de una comunidad, esto puede servir para reportar daños, necesidades o incidencias.
+Por eso, el uso de req.body en Express es importante, porque permite procesar la información enviada por los usuarios.
