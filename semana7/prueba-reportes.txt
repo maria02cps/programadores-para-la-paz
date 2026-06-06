@@ -1,0 +1,10 @@
+Al enviar un reporte por la ruta POST /reportes, el servidor recibe
+la información que se mandó en formato JSON. En este caso se envió 
+un reporte de tipo Infraestructura con la descripción “Daño en alumbrado público”.
+
+Después, al consultar la ruta GET /reportes, el servidor muestra los reportes que 
+se han registrado. La respuesta permite ver que el reporte quedó guardado con un id,
+ el tipo de reporte y su descripción. Esto significa que la API está funcionando 
+correctamente, porque permite registrar un reporte y luego consultarlo. También es
+ importante tener en cuenta que estos reportes se guardan solo mientras el servidor 
+está encendido.

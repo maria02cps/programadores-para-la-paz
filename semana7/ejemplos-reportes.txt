@@ -1,0 +1,13 @@
+Ejemplo 1:
+
+{
+  "tipo": "Estructura",
+  "descripción": "Daño en los juegos infantiles del parque"
+}
+
+Ejemplo 2:
+
+{
+  "tipo": "Ambiente",
+  "descripción": " Acumulación de residuos orgánicos en la zona de ejercicio"
+}
