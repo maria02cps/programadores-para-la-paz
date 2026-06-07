@@ -1,0 +1,15 @@
+El comando uname -a muestra información general del sistema, como el tipo de sistema operativo, el nombre del equipo y algunos datos de la versión que se está usando.
+
+Resultado obtenido en mi terminal:
+MINGW64_NT-10.0-26200 LAPTOP-244A29U7 3.6.6-1cdd4371.x86_64 2026-01-15 22:20 UTC x86_64 Msys
+
+El comando whoami muestra el nombre del usuario que está usando la terminal en ese momento.
+
+Resultado obtenido en mi terminal:
+MARIA PALACIOS
+
+Conocer esta información es útil cuando se administra un servidor porque permite identificar el entorno donde se está trabajando.
+
+También ayuda a saber con qué usuario se están ejecutando los comandos.
+
+Esto es importante para revisar permisos, seguridad y configuración del sistema.
