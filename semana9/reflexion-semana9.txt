@@ -1,0 +1,10 @@
+Las plataformas tecnológicas que usan las comunidades deben funcionar de manera estable y segura porque muchas personas dependen de ellas para comunicarse, acceder a información y participar en servicios digitales.
+Si un servidor falla constantemente, la comunidad pierde confianza y se interrumpe el acceso a herramientas importantes.
+La estabilidad permite que la aplicación esté disponible cuando los usuarios la necesitan.
+La seguridad ayuda a proteger datos, credenciales y procesos internos de la plataforma.
+Los logs son importantes porque permiten identificar errores y corregir problemas a tiempo.
+Un servidor bien administrado facilita el monitoreo y reduce el riesgo de interrupciones.
+También permite responder mejor ante fallas, ataques o sobrecargas del sistema.
+En una comunidad, una plataforma digital confiable puede fortalecer la organización, la participación y la toma de decisiones.
+Por eso, no basta con que una aplicación funcione; también debe mantenerse protegida, documentada y disponible.
+Un servidor estable es como una base firme: sostiene todo el servicio digital sin que los usuarios vean lo que ocurre detrás.
