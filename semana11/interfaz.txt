@@ -1,0 +1,10 @@
+Semana 11 - Interfaz básica
+
+La interfaz tendría una sección principal donde se puedan ver las causas comunitarias disponibles.
+Cada causa mostraría información básica como título, descripción general, categoría, fecha de creación y estado.
+También tendría un formulario para crear una nueva causa comunitaria con campos como título, descripción, categoría y fecha.
+El formulario debe ser sencillo, claro y no debe solicitar datos personales reales o sensibles.
+Cada causa tendría un botón para apoyar la causa y un contador que muestre cuántas personas la han apoyado.
+La plataforma también podría tener una vista de detalle para revisar mejor cada causa, sin exponer información privada de los usuarios.
+Para los usuarios autorizados, podría existir una sección de administración donde se cambie el estado de una causa, por ejemplo: pendiente, en revisión o finalizada.
+La interfaz debe ser fácil de entender, como un tablero comunitario ordenado: muestra lo importante, permite participar y evita publicar información que pueda poner en riesgo a las personas.

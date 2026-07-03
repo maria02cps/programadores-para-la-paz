@@ -1,0 +1,10 @@
+Semana 11 - Autenticación
+
+El login en una aplicación permite identificar a un usuario antes de darle acceso a ciertas funciones.
+Sirve como una puerta de entrada para verificar quién está usando la plataforma.
+Algunas rutas deben estar protegidas porque pueden contener información interna, registros comunitarios o acciones que no deberían estar disponibles para cualquier persona.
+Por ejemplo, una ruta para crear, editar o eliminar causas debe estar limitada a usuarios autorizados.
+La autenticación ayuda a evitar accesos indebidos y protege la información de la comunidad.
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens, claves de API ni datos sensibles.
+Además, las contraseñas no deben guardarse en texto plano, sino protegidas con mecanismos seguros.
+Una plataforma ciudadana debe permitir participación, pero también cuidar la privacidad y la responsabilidad en el uso de los datos.

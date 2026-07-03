@@ -1,0 +1,12 @@
+Semana 11 - Reflexión final
+
+Una plataforma tecnológica que promueve la participación ciudadana debe tener una base de datos porque necesita guardar y organizar la información de manera clara.
+Sin una base de datos, los reportes, causas o apoyos podrían perderse o quedar dispersos en mensajes y documentos.
+La autenticación de usuarios es importante porque permite controlar quién puede acceder a ciertas funciones.
+No todas las personas deberían poder modificar, eliminar o consultar información interna de la plataforma.
+La protección de datos también es fundamental para evitar riesgos de privacidad o uso indebido de la información.
+En una comunidad, la confianza depende de que los datos se usen con responsabilidad.
+La trazabilidad permite saber quién hizo un cambio, cuándo lo hizo y qué acción realizó.
+Esto ayuda a mantener transparencia y seguimiento dentro del proceso ciudadano.
+Una plataforma comunitaria no solo debe funcionar técnicamente, también debe proteger a las personas.
+Por eso, base de datos, autenticación y privacidad son elementos necesarios para una participación más segura y organizada.

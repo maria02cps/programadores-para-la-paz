@@ -1,0 +1,51 @@
+Semana 11 - Modelo de datos simple
+
+Modelo básico de datos para una plataforma comunitaria
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria
+- fecha_creacion
+- estado
+
+Propósito:
+Guardar las causas comunitarias que serán visibles en la plataforma. Esta información permite organizar los temas que la comunidad quiere apoyar, revisar o seguir. Por ejemplo, una causa puede estar relacionada con una necesidad del barrio, una solicitud ciudadana o una situación que requiere atención.
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- usuario_practica
+- fecha_apoyo
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación comunitaria. El campo causa_id permite relacionar el apoyo con una causa específica. Para proteger la privacidad, se debe usar información de práctica o identificadores no sensibles, evitando nombres reales, documentos, teléfonos o direcciones.
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre_usuario
+- rol
+- correo_practica
+- fecha_registro
+
+Propósito:
+Identificar de manera básica a los usuarios de práctica dentro de la plataforma y definir su rol. Por ejemplo, algunos usuarios podrían consultar causas, mientras que otros podrían administrar o revisar información. No se deben guardar contraseñas en texto plano ni datos personales reales.
+
+Entidad: Bitacora
+
+Campos principales:
+- id
+- usuario_id
+- accion
+- fecha
+- descripcion_cambio
+
+Propósito:
+Registrar las acciones importantes realizadas dentro de la plataforma, como crear una causa, actualizar un estado o registrar un apoyo. Esta entidad ayuda a mantener trazabilidad, porque permite saber quién hizo una acción, cuándo la hizo y qué cambio realizó.
