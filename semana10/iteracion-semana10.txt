@@ -1,0 +1,24 @@
+Semana 10 - Iteración simple
+
+¿Qué 2 tareas del backlog harías primero?
+
+Haría primero estas dos tareas:
+
+1. Registrar una incidencia comunitaria.
+2. Enviar una alerta en Telegram cuando se registre un nuevo reporte.
+
+¿Por qué son las más importantes?
+
+Son las más importantes porque permiten iniciar el proceso de seguimiento. Primero se necesita recibir y registrar la información básica del reporte. Luego, el equipo responsable debe enterarse rápidamente para revisar el caso. Es como construir una casa: antes de pintar o decorar, primero se necesita la base y las paredes. En este caso, la base es el registro del reporte y la alerta inicial.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+
+Para mí, una tarea está terminada cuando cumple su objetivo, funciona correctamente y queda registrada como evidencia del trabajo realizado.
+
+Definición simple de terminado:
+
+1. La tarea funciona según lo solicitado.
+2. La tarea fue probada con información de práctica y no sensible.
+3. El resultado quedó registrado en Git.
+4. No contiene datos personales, tokens, claves ni información sensible.
+5. El equipo puede entender cómo funciona la tarea realizada.

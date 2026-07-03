@@ -1,0 +1,18 @@
+Semana 10 - Backlog básico
+
+Backlog priorizado de una solución comunitaria o de veeduría
+
+Prioridad 1:
+Como ciudadano quiero registrar una incidencia comunitaria para dejar evidencia del caso y facilitar su seguimiento.
+
+Prioridad 2:
+Como coordinador comunitario quiero recibir una alerta en Telegram cuando se registre un nuevo reporte para revisarlo oportunamente.
+
+Prioridad 3:
+Como miembro del equipo de veeduría quiero consultar los reportes registrados para organizar el seguimiento de cada caso.
+
+Prioridad 4:
+Como administrador del proceso quiero clasificar los reportes por estado para saber cuáles están pendientes, en revisión o finalizados.
+
+Prioridad 5:
+Como comunidad quiero recibir información general sobre el avance de los reportes para fortalecer la transparencia y la participación ciudadana.

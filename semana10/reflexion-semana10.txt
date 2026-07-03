@@ -1,0 +1,12 @@
+Semana 10 - Reflexión final
+
+Las metodologías ágiles ayudan a organizar mejor una comunidad porque permiten dividir un problema grande en tareas pequeñas y manejables.
+Esto facilita priorizar lo más importante y avanzar paso a paso sin perder el enfoque.
+El backlog permite ordenar las necesidades de la comunidad según su urgencia y valor.
+La automatización ayuda a reducir tareas repetitivas, como avisar cuando llega un nuevo reporte.
+Herramientas como n8n y Telegram pueden mejorar la coordinación entre los integrantes del equipo.
+También permiten hacer seguimiento de casos sin depender únicamente de reuniones o mensajes manuales.
+Sin embargo, es importante usarlas con responsabilidad y sin compartir datos sensibles.
+La tecnología debe apoyar la participación ciudadana, pero también proteger la privacidad.
+Una comunidad organizada necesita comunicación, trazabilidad y evidencia de sus acciones.
+Por eso, las metodologías ágiles y la automatización pueden fortalecer procesos comunitarios más claros y transparentes.
