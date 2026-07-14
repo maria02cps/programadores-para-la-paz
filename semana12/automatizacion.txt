@@ -1,0 +1,3 @@
+Evento: Nueva causa registrada.
+Mensaje: "Nueva causa creada correctamente."
+Información que no debe enviarse: cédulas, teléfonos, direcciones, correos electrónicos y datos personales sensibles.

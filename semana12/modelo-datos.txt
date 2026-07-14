@@ -1,0 +1,15 @@
+Entidad: Causa
+- id
+- titulo
+- descripcion
+- fecha
+
+Sirve para almacenar la información de cada causa.
+
+Entidad: Apoyo
+- id
+- causa_id
+- nombre
+- fecha
+
+Sirve para registrar los apoyos de los ciudadanos.
